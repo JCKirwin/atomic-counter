@@ -1,0 +1,21 @@
+{
+  "librarians": ["Alice", "Bob", "Carol"],
+  "bookDonations": [
+    { "title": "The Midnight Garden", "author": "Elena Voss" },
+    { "title": "Tides of Iron", "author": "Marcus Hale" },
+    { "title": "Windmill Sonnets", "author": "Ava Chen" },
+    { "title": "The Copper Fox", "author": "Diego Ruiz" },
+    { "title": "Lanterns Below", "author": "Priya Nair" },
+    { "title": "Echoes in Granite", "author": "Sven Johansson" },
+    { "title": "The Quilted Map", "author": "Fiona Byrne" },
+    { "title": "Salt and Sagebrush", "author": "Tomoko Ishida" },
+    { "title": "Raincatcher", "author": "Liam O'Donnell" },
+    { "title": "The Starling Hypothesis", "author": "Amara Osei" },
+    { "title": "Blueprints for Silence", "author": "Henrik Braun" },
+    { "title": "Foxglove Lane", "author": "Rosalind Park" }
+  ],
+  "counterOptions": {
+    "counterFileName": "counter.txt",
+    "artifactExtension": ".json"
+  }
+}
